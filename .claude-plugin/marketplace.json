@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aegisnir-plugins",
+  "description": "Claude Code plugins by Aegisnir",
+  "owner": { "name": "Aegisnir" },
+  "plugins": [
+    {
+      "name": "manapool",
+      "description": "Mana Pool: the real tokens behind Claude Code's 5-hour and weekly limits",
+      "source": { "source": "url", "url": "https://github.com/aegisnir/manapool.git" }
+    },
+    {
+      "name": "runenir-theme",
+      "description": "Runenir look for the Claude desktop and mobile apps, in nine gemstone colours",
+      "source": { "source": "url", "url": "https://github.com/aegisnir/runenir-claude-theme.git" }
+    }
+  ]
+}
