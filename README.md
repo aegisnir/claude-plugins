@@ -23,4 +23,6 @@ Then install one:
 /plugin install manapool@aegisnir-plugins
 ```
 
+**Optional: get updates automatically.**  In a terminal, run `claude`, type `/plugin`, open **Marketplaces**, pick `aegisnir-plugins`, and choose **Enable auto-update**.
+
 Each plugin's own repo has its README and licence.
